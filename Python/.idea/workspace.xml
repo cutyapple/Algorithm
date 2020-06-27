@@ -20,11 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f47d6284-79e6-40d5-b2da-468ce94d7e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/백준02562.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/백준02577.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/백준03052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/백준04344.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/백준08958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준01065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준01152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준01157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준01316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준02675.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준02908.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준02941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준04673.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준05622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준11654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/백준15596.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -60,8 +67,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.백준04344">
-    <configuration name="백준02562" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.백준01316">
+    <configuration name="백준01152" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준02562.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준01152.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준02577" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="백준01316" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준02577.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준01316.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준03052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="백준02908" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준03052.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준02908.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준04344" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="백준02941" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준04344.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준02941.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="백준08958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="백준05622" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준08958.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/백준05622.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.백준04344" />
-        <item itemvalue="Python.백준08958" />
-        <item itemvalue="Python.백준03052" />
-        <item itemvalue="Python.백준02577" />
-        <item itemvalue="Python.백준02562" />
+        <item itemvalue="Python.백준01316" />
+        <item itemvalue="Python.백준02941" />
+        <item itemvalue="Python.백준05622" />
+        <item itemvalue="Python.백준02908" />
+        <item itemvalue="Python.백준01152" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +200,10 @@
       <updated>1591008127078</updated>
       <workItem from="1591008130041" duration="348000" />
       <workItem from="1592374697939" duration="1199000" />
-      <workItem from="1592432774685" duration="4215000" />
+      <workItem from="1592432774685" duration="6259000" />
+      <workItem from="1592476179242" duration="236000" />
+      <workItem from="1592541574628" duration="1552000" />
+      <workItem from="1593231891271" duration="5356000" />
     </task>
     <servers />
   </component>
@@ -213,32 +223,58 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1592440431186">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592476357785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592440431186" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1592440431186">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592476357785" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1593238498148">
+      <screen x="-1366" y="9" width="1366" height="728" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592440431186" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1592440431185">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.9.1366.728@-1366.9.1366.728" timestamp="1593238498148" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592443246475" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.78.1366.728@1920.78.1366.728" timestamp="1592543118678" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1593238498148">
+      <screen x="-1366" y="9" width="1366" height="728" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592440431185" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1592440431186">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1536.824/-1366.9.1366.728@-1366.9.1366.728" timestamp="1593238498148" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592443246474" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1536.824/1920.78.1366.728@1920.78.1366.728" timestamp="1592543118678" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1593238498148">
+      <screen x="-1366" y="9" width="1366" height="728" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592440431186" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1536.824/-1366.9.1366.728@-1366.9.1366.728" timestamp="1593238498148" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592443246474" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1536.824/1920.78.1366.728@1920.78.1366.728" timestamp="1592543118678" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1593238498148">
+      <screen x="-1366" y="9" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1536.824/-1366.9.1366.728@-1366.9.1366.728" timestamp="1593238498148" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592443246474" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1536.824/1920.78.1366.728@1920.78.1366.728" timestamp="1592543118678" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1592432810456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.78.1366.728@0.0.1536.824" timestamp="1592432810456" />
+    <state x="-1020" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1593234764808">
+      <screen x="-1366" y="9" width="1366" height="728" />
+    </state>
+    <state x="-1020" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.9.1366.728@-1366.9.1366.728" timestamp="1593234764808" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$02577.coverage" NAME="백준02577 Coverage Results" MODIFIED="1592433570402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Python$08958.coverage" NAME="백준08958 Coverage Results" MODIFIED="1592434367659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Python$02562.coverage" NAME="백준02562 Coverage Results" MODIFIED="1592433048498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$01065.coverage" NAME="백준01065 Coverage Results" MODIFIED="1592543118658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$01316.coverage" NAME="백준01316 Coverage Results" MODIFIED="1593238498140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$01157.coverage" NAME="백준01157 Coverage Results" MODIFIED="1593234145382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$05622.coverage" NAME="백준05622 Coverage Results" MODIFIED="1593235445402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$04673.coverage" NAME="백준04673 Coverage Results" MODIFIED="1592443117502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$01152.coverage" NAME="백준01152 Coverage Results" MODIFIED="1593234567110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$11654.coverage" NAME="백준11654 Coverage Results" MODIFIED="1593232795011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Python$03052.coverage" NAME="백준03052 Coverage Results" MODIFIED="1592433922781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$02908.coverage" NAME="백준02908 Coverage Results" MODIFIED="1593234766913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Python$04344.coverage" NAME="백준04344 Coverage Results" MODIFIED="1592440490157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$02675.coverage" NAME="백준02675 Coverage Results" MODIFIED="1593233557354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Python$02941.coverage" NAME="백준02941 Coverage Results" MODIFIED="1593236100564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
   </component>
 </project>
